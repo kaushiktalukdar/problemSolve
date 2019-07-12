@@ -3,7 +3,7 @@ import java.io.*;
 import java.lang.*;
 
 
-class test{
+class One{
 	static int factorial(int n){
 		if (n<=1) {
 			return 1;
